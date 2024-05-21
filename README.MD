@@ -6,8 +6,7 @@ This Python program reads a Markdown file containing project task data and conve
 
 ### Motivation
 
-The primary purpose of this program is to allow the author to quickly convert a mindmap from iThoughts exported as a Markdown file format into a tasks CSV file for tools like JIRA.
-The primary purpose of this program is to allow the author to quickly convert a mindmap from iThoughts exported as a Markdown file format into a tasks CSV file for JIRA.
+The primary purpose of this program is to allow the author to quickly convert a mindmap in markdown format exported from iThoughts into a CSV file to be imported in JIRA.
 
 ## Features
 
